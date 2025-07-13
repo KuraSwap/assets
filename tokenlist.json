@@ -1,0 +1,68 @@
+{
+  "name": "token",
+  "timestamp": "2025-07-13T01:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1328,
+      "name": "WSEI",
+      "address": "0x3921eA6Cf927BE80211Bb57f19830700285b0AdA",
+      "symbol": "WSEI",
+      "decimals": 18,
+      "isWrappedNative": true
+    },
+    {
+      "chainId": 1328,
+      "address": "0x164a08B447e0E1bE17d1DbAf16530cd054c6175A",
+      "name": "tUSDC",
+      "symbol": "tUSDC",
+      "decimals": 18
+    },
+    {
+      "chainId": 1328,
+      "address": "0x62Bd635dDe796a95B73708B88913AeDA9D54b624",
+      "name": "tUSDT",
+      "symbol": "tUSDT",
+      "decimals": 8
+    },
+    {
+      "chainId": 1328,
+      "address": "0x1c1407f11b0Bacbafa9cB3e62D24f9AEAaa14013",
+      "name": "tWBTC",
+      "symbol": "tWBTC",
+      "decimals": 18
+    },
+    {
+      "chainId": 1328,
+      "address": "0x020f36709Bb8e45e715378CabBB273c3023E3fED",
+      "name": "tWETH",
+      "symbol": "tWETH",
+      "decimals": 6
+    },
+    {
+      "chainId": 1328,
+      "name": "SHADOW",
+      "symbol": "SHADOW",
+      "address": "0x999F8fcA3c585E7AAe17Bc664C6182540E855B38",
+      "decimals": 18
+    },
+    {
+      "chainId": 1328,
+      "name": "xSHADOW",
+      "symbol": "xSHADOW",
+      "address": "0xC7CEf00f6C96527FD6B6eA90E0fa3C50c28abD3d",
+      "decimals": 18
+    },
+    {
+      "chainId": 1328,
+      "name": "x33",
+      "symbol": "x33",
+      "address": "0xd33e686FE35528b4F1F79B4c0152B87307F42383",
+      "decimals": 18
+    }
+  ]
+}
