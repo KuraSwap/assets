@@ -20,28 +20,28 @@
       "address": "0x164a08B447e0E1bE17d1DbAf16530cd054c6175A",
       "name": "tUSDC",
       "symbol": "tUSDC",
-      "decimals": 18
+      "decimals": 6
     },
     {
       "chainId": 1328,
       "address": "0x62Bd635dDe796a95B73708B88913AeDA9D54b624",
       "name": "tUSDT",
       "symbol": "tUSDT",
-      "decimals": 8
+      "decimals": 6
     },
     {
       "chainId": 1328,
       "address": "0x1c1407f11b0Bacbafa9cB3e62D24f9AEAaa14013",
       "name": "tWBTC",
       "symbol": "tWBTC",
-      "decimals": 18
+      "decimals": 8
     },
     {
       "chainId": 1328,
       "address": "0x020f36709Bb8e45e715378CabBB273c3023E3fED",
       "name": "tWETH",
       "symbol": "tWETH",
-      "decimals": 6
+      "decimals": 18
     },
     {
       "chainId": 1328,
