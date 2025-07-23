@@ -1,6 +1,6 @@
 {
   "name": "token",
-  "timestamp": "2025-07-14T01:00:00Z",
+  "timestamp": "2025-07-23T01:00:00Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -17,28 +17,28 @@
     },
     {
       "chainId": 1328,
-      "address": "0x164a08B447e0E1bE17d1DbAf16530cd054c6175A",
+      "address": "0xEf5eF8F029efc5687427e45BF55cdaF553DB84D6",
       "name": "tUSDC",
       "symbol": "tUSDC",
       "decimals": 6
     },
     {
       "chainId": 1328,
-      "address": "0x62Bd635dDe796a95B73708B88913AeDA9D54b624",
+      "address": "0x80b799b04b1b5Aee590511d3A8066e5625D7A17C",
       "name": "tUSDT",
       "symbol": "tUSDT",
       "decimals": 6
     },
     {
       "chainId": 1328,
-      "address": "0x1c1407f11b0Bacbafa9cB3e62D24f9AEAaa14013",
+      "address": "0x72e45547AAa8bEf91ac0EE72f828ffB87B3b171f",
       "name": "tWBTC",
       "symbol": "tWBTC",
       "decimals": 8
     },
     {
       "chainId": 1328,
-      "address": "0x020f36709Bb8e45e715378CabBB273c3023E3fED",
+      "address": "0xf038C26522654AA83761bE8c3c8E9335d12Ac7D8",
       "name": "tWETH",
       "symbol": "tWETH",
       "decimals": 18
@@ -47,21 +47,21 @@
       "chainId": 1328,
       "name": "SHADOW",
       "symbol": "SHADOW",
-      "address": "0x999F8fcA3c585E7AAe17Bc664C6182540E855B38",
+      "address": "0x6b8A957C87B9975cA240281729399068343D99f5",
       "decimals": 18
     },
     {
       "chainId": 1328,
       "name": "xSHADOW",
       "symbol": "xSHADOW",
-      "address": "0xC7CEf00f6C96527FD6B6eA90E0fa3C50c28abD3d",
+      "address": "0x6cc81CdEF512F18930464f7665D7f0F2452c8218",
       "decimals": 18
     },
     {
       "chainId": 1328,
       "name": "x33",
       "symbol": "x33",
-      "address": "0xd33e686FE35528b4F1F79B4c0152B87307F42383",
+      "address": "0x2c053BF264c633d753F75ff46c61F4F5DA40033c",
       "decimals": 18
     }
   ]
