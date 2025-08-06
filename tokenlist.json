@@ -75,42 +75,21 @@
       "chainId": 1329,
       "name": "KURA",
       "symbol": "KURA",
-      "address": "0x7E75ad0D14bA277a8032F9E0e843Ab738D1ff83E",
+      "address": "0x4b416A45e1f26a53D2ee82a50a4C7D7bE9EdA9E4",
       "decimals": 18
     },
     {
       "chainId": 1329,
       "name": "xKURA",
       "symbol": "xKURA",
-      "address": "0x06E07afc36392b44EE92F11B062011a2cA36817F",
+      "address": "0x0422dddD70A324f21C142143035328F3b2c92f0D",
       "decimals": 18
     },
     {
       "chainId": 1329,
       "name": "k33",
       "symbol": "k33",
-      "address": "0x87E7449CE25229634A4f1c4A569c313AaAaB27A4",
-      "decimals": 18
-    },
-    {
-      "chainId": 1329,
-      "name": "DEPRECATED-KURA",
-      "symbol": "DEPRECATED-KURA",
-      "address": "0xD495aE6bbe2777bD7947c98e87482696fA3dB077",
-      "decimals": 18
-    },
-    {
-      "chainId": 1329,
-      "name": "DEPRECATED-xKURA",
-      "symbol": "DEPRECATED-xKURA",
-      "address": "0x4168DB161b93E052f8B0C745783F5e3A5ebD4E41",
-      "decimals": 18
-    },
-    {
-      "chainId": 1329,
-      "name": "DEPRECATED-k33",
-      "symbol": "DEPRECATED-k33",
-      "address": "0x7b6E7b50f375C523659fF1b2C4299088e44574aF",
+      "address": "0x8A200a13c1321fdc7F6c7AFba1494E1949426eFD",
       "decimals": 18
     }
   ]
