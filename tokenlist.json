@@ -91,6 +91,27 @@
       "symbol": "k33",
       "address": "0x87E7449CE25229634A4f1c4A569c313AaAaB27A4",
       "decimals": 18
+    },
+    {
+      "chainId": 1329,
+      "name": "DEPRECATED-KURA",
+      "symbol": "DEPRECATED-KURA",
+      "address": "0xD495aE6bbe2777bD7947c98e87482696fA3dB077",
+      "decimals": 18
+    },
+    {
+      "chainId": 1329,
+      "name": "DEPRECATED-xKURA",
+      "symbol": "DEPRECATED-xKURA",
+      "address": "0x4168DB161b93E052f8B0C745783F5e3A5ebD4E41",
+      "decimals": 18
+    },
+    {
+      "chainId": 1329,
+      "name": "DEPRECATED-k33",
+      "symbol": "DEPRECATED-k33",
+      "address": "0x7b6E7b50f375C523659fF1b2C4299088e44574aF",
+      "decimals": 18
     }
   ]
 }
