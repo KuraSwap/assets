@@ -34,7 +34,8 @@ jobs:
       - name: Upload tokenlist.json
         run: |
           aws s3 cp ./tokenlist.json \
-            s3://${{ secrets.S3_BUCKET_NAME }}/tokenlist.json
+            s3://${{ secrets.S3_BUCKET_NAME }}/tokenlist.json \
+            --cache-control "max-age=60, s-maxage=60, must-revalidate"
 
       # 5. invalidate CloudFront
       - name: Create CloudFront Invalidation
