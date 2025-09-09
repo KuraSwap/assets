@@ -112,6 +112,13 @@
       "symbol": "LARRY",
       "address": "0x888d81e3ea5e8362b5f69188cbcf34fa8da4b888",
       "decimals": 18
+    },
+    {
+      "chainId": 1329,
+      "name": "YakaPie",
+      "symbol": "YKP",
+      "address": "0x008c8c362cd46a9e41957cc11ee812647233dff1",
+      "decimals": 18
     }
   ]
 }
